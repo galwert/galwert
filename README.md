@@ -31,6 +31,6 @@ configs, attack artifacts and audit logs, plus five trained adapters on
 | [computer-architecture-simulators](https://github.com/galwert/computer-architecture-simulators) | Cache hierarchy and branch predictor simulators |
 | [oferandgalex1](https://github.com/galwert/oferandgalex1) | `smash`, a Linux shell in C++ with job control, pipes and signals |
 | [Compilation1](https://github.com/galwert/Compilation1), [compilation2](https://github.com/galwert/compilation2), [compilation3](https://github.com/galwert/compilation3), [compilation5](https://github.com/galwert/compilation5) | A compiler for a C-like language, from flex scanner to LLVM IR |
-| [DataStructersex2](https://github.com/galwert/DataStructersex2) | Rank-augmented AVL tree and union-find in C++ |
+| [DataStructersex1_new](https://github.com/galwert/DataStructersex1_new), [DataStructersex2](https://github.com/galwert/DataStructersex2) | AVL trees, rank-augmented trees and union-find in C++ |
 | [atamhw2](https://github.com/galwert/atamhw2) | x86-64 assembly with raw Linux syscalls |
-| [nlp-project1](https://github.com/galwert/nlp-project1) | Text classifiers in PyTorch |
+| [nlp-project1](https://github.com/galwert/nlp-project1), [nlp-project3](https://github.com/galwert/nlp-project3) | Text classifiers in PyTorch; CKY constituency parsing |
