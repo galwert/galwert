@@ -22,6 +22,10 @@ configs, attack artifacts and audit logs, plus five trained adapters on
 | [structml-relational-gnn-ablations](https://github.com/galwert/structml-relational-gnn-ablations) | Ablation study of relational GNNs on RelBench: edge directionality, heterogeneity, column encoders and depth. |
 | [backdoor-defense-quantization](https://github.com/galwert/backdoor-defense-quantization) | Do backdoor defenses survive quantization? Four defenses, three quantization schemes, both orderings, on DistilBERT. |
 
+## Hackathon
+
+**[sar-voidcrawler](https://github.com/galwert/sar-voidcrawler)**: navigation and perception stack for a search-and-rescue crawler robot. Synthetic LiDAR SLAM, goal-directed navigation with a 360 degree survivor scan, human-part LiDAR segmentation, and SAM2-based rubble analysis, all runnable on CPU without a robot.
+
 ## Coursework
 
 | Repository | Topic |
@@ -29,8 +33,8 @@ configs, attack artifacts and audit logs, plus five trained adapters on
 | [structml-assignments](https://github.com/galwert/structml-assignments) | Relational feature extraction and node embeddings |
 | [stat-methods-image-processing](https://github.com/galwert/stat-methods-image-processing) | Normalizing flows, energy-based models, score matching |
 | [computer-architecture-simulators](https://github.com/galwert/computer-architecture-simulators) | Cache hierarchy and branch predictor simulators |
-| [oferandgalex1](https://github.com/galwert/oferandgalex1) | `smash`, a Linux shell in C++ with job control, pipes and signals |
-| [Compilation1](https://github.com/galwert/Compilation1), [compilation2](https://github.com/galwert/compilation2), [compilation3](https://github.com/galwert/compilation3), [compilation5](https://github.com/galwert/compilation5) | A compiler for a C-like language, from flex scanner to LLVM IR |
-| [DataStructersex1_new](https://github.com/galwert/DataStructersex1_new), [DataStructersex2](https://github.com/galwert/DataStructersex2) | AVL trees, rank-augmented trees and union-find in C++ |
-| [atamhw2](https://github.com/galwert/atamhw2) | x86-64 assembly with raw Linux syscalls |
-| [nlp-project1](https://github.com/galwert/nlp-project1), [nlp-project3](https://github.com/galwert/nlp-project3) | Text classifiers in PyTorch; CKY constituency parsing |
+| [smash-linux-shell](https://github.com/galwert/smash-linux-shell) | `smash`, a Linux shell in C++ with job control, pipes and signals |
+| [fanc-compiler-1-lexer](https://github.com/galwert/fanc-compiler-1-lexer), [2-parser](https://github.com/galwert/fanc-compiler-2-parser), [3-semantics](https://github.com/galwert/fanc-compiler-3-semantics), [5-llvm-codegen](https://github.com/galwert/fanc-compiler-5-llvm-codegen) | A compiler for a C-like language, from flex scanner to LLVM IR |
+| [avl-tree-company-db](https://github.com/galwert/avl-tree-company-db), [rank-tree-union-find](https://github.com/galwert/rank-tree-union-find) | AVL trees, rank-augmented trees and union-find in C++ |
+| [x86-64-assembly-hamming](https://github.com/galwert/x86-64-assembly-hamming) | x86-64 assembly with raw Linux syscalls |
+| [nlp-text-classification](https://github.com/galwert/nlp-text-classification), [nlp-sequence-labeling](https://github.com/galwert/nlp-sequence-labeling), [nlp-cky-parser](https://github.com/galwert/nlp-cky-parser), [nlp-semantic-parsing](https://github.com/galwert/nlp-semantic-parsing) | NLP course projects: text classifiers, slot-filling taggers, CKY parsing, semantic parsing |
