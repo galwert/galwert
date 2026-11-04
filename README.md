@@ -26,15 +26,16 @@ configs, attack artifacts and audit logs, plus five trained adapters on
 
 **[sar-voidcrawler](https://github.com/galwert/sar-voidcrawler)**: navigation and perception stack for a search-and-rescue crawler robot. Synthetic LiDAR SLAM, goal-directed navigation with a 360 degree survivor scan, human-part LiDAR segmentation, and SAM2-based rubble analysis, all runnable on CPU without a robot.
 
-## Coursework
+## Coursework (Technion)
 
-| Repository | Topic |
-|---|---|
-| [structml-assignments](https://github.com/galwert/structml-assignments) | Relational feature extraction and node embeddings |
-| [stat-methods-image-processing](https://github.com/galwert/stat-methods-image-processing) | Normalizing flows, energy-based models, score matching |
-| [computer-architecture-simulators](https://github.com/galwert/computer-architecture-simulators) | Cache hierarchy and branch predictor simulators |
-| [smash-linux-shell](https://github.com/galwert/smash-linux-shell) | `smash`, a Linux shell in C++ with job control, pipes and signals |
-| [fanc-compiler-1-lexer](https://github.com/galwert/fanc-compiler-1-lexer), [2-parser](https://github.com/galwert/fanc-compiler-2-parser), [3-semantics](https://github.com/galwert/fanc-compiler-3-semantics), [5-llvm-codegen](https://github.com/galwert/fanc-compiler-5-llvm-codegen) | A compiler for a C-like language, from flex scanner to LLVM IR |
-| [avl-tree-company-db](https://github.com/galwert/avl-tree-company-db), [rank-tree-union-find](https://github.com/galwert/rank-tree-union-find) | AVL trees, rank-augmented trees and union-find in C++ |
-| [x86-64-assembly-hamming](https://github.com/galwert/x86-64-assembly-hamming) | x86-64 assembly with raw Linux syscalls |
-| [nlp-text-classification](https://github.com/galwert/nlp-text-classification), [nlp-sequence-labeling](https://github.com/galwert/nlp-sequence-labeling), [nlp-cky-parser](https://github.com/galwert/nlp-cky-parser), [nlp-semantic-parsing](https://github.com/galwert/nlp-semantic-parsing) | NLP course projects: text classifiers, slot-filling taggers, CKY parsing, semantic parsing |
+| Course | Repository | What's inside |
+|---|---|---|
+| 236605 Structured Machine Learning | [236605-structured-ml](https://github.com/galwert/236605-structured-ml) | Relational feature extraction and node embeddings on RelBench. Final project: [structml-relational-gnn-ablations](https://github.com/galwert/structml-relational-gnn-ablations) |
+| 048954 Statistical Methods in Image Processing | [048954-statistical-methods-image-processing](https://github.com/galwert/048954-statistical-methods-image-processing) | Normalizing flows, energy-based models, score matching |
+| 236299 Introduction to NLP | [236299-intro-to-nlp](https://github.com/galwert/236299-intro-to-nlp) | Text classification, slot-filling taggers, CKY parsing, semantic parsing for QA |
+| 236360 Theory of Compilation | [236360-theory-of-compilation](https://github.com/galwert/236360-theory-of-compilation) | A compiler for a C-like language, from flex lexer to LLVM IR with backpatching |
+| 234123 Operating Systems | [234123-operating-systems](https://github.com/galwert/234123-operating-systems) | `smash`, a Linux shell in C++ with job control, pipes and signals |
+| 234218 Data Structures 1 | [234218-data-structures-1](https://github.com/galwert/234218-data-structures-1) | AVL and rank-augmented trees, union-find, five wet assignments |
+| 234124 Introduction to Systems Programming | [234124-intro-to-systems-programming](https://github.com/galwert/234124-intro-to-systems-programming) | C++ templates, iterators, exceptions, a turn-based game |
+| 234118 Computer Organization | [234118-computer-organization](https://github.com/galwert/234118-computer-organization) | x86-64 assembly with raw Linux syscalls |
+| Computer architecture | [computer-architecture-simulators](https://github.com/galwert/computer-architecture-simulators) | Cache hierarchy and branch predictor simulators |
