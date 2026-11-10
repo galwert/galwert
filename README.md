@@ -4,6 +4,8 @@ ML researcher and engineer. I work on the safety and interpretability of large
 models: adversarial robustness of LLMs, mechanistic interpretability of
 generative models, and learning on relational data.
 
+Contact: wertheizer@campus.technion.ac.il · Models: [huggingface.co/galwert](https://huggingface.co/galwert)
+
 ## Featured: AnchorRep (NeurIPS 2026)
 
 **[AnchorRep](https://github.com/galwert/AnchorRep)**: a defense against
